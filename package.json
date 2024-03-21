@@ -1,0 +1,26 @@
+{
+  "name": "jswebcrawler",
+  "version": "1.0.0",
+  "description": "Javascript web crawler (boot.dev project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebQ42/JsWebCrawler.git"
+  },
+  "author": "CalebQ42",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalebQ42/JsWebCrawler/issues"
+  },
+  "homepage": "https://github.com/CalebQ42/JsWebCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
